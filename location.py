@@ -1,12 +1,9 @@
-import requests
+# user_input_location.py
 
 def get_location():
-    url = "http://ip-api.com/json/"
-    response = requests.get(url)
-    data = response.json()
-
-    print("City:", data['city'])
-    print("Country:", data['country'])
+    location = input("Enter your location: ")
+    print("Your location is:", location)
 
 get_location()
+
 
