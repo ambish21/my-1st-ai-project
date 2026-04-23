@@ -1,5 +1,5 @@
 # my-1st-ai-project
 my first step into AI journey
 ## Update
-Practicing Python,html,css basics daily 🚀
+"Dedicated to daily practice of Python, HTML, and CSS — growing as a future developer 🚀💻"
 
