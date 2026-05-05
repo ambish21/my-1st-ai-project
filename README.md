@@ -1,4 +1,4 @@
-foucsing on mini projrct ....   :)
+foucsing on mini projrcts ....   :)
 01-calculator
 02-number guessing game
 03-sentiment analysis
